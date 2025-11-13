@@ -20,11 +20,11 @@
 ## Cборка и запуск
 
 ### Системные требования
-С++ 17
-[Visual Studio](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/) или компилятор C++ например [GCC(MinGW-w64) 11+](https://www.mingw-w64.org/downloads/)
-[JDK – Java Development Kit](https://www.oracle.com/java/technologies/downloads/)
-[Библиотека ANTLR4](https://www.antlr.org/)
-[CMake version 3.8+](https://cmake.org/)
+- С++ 17
+- [Visual Studio](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/) или компилятор C++ например [GCC(MinGW-w64) 11+](https://www.mingw-w64.org/downloads/)
+- [JDK – Java Development Kit](https://www.oracle.com/java/technologies/downloads/)
+- [Библиотека ANTLR4](https://www.antlr.org/)
+- [CMake version 3.8+](https://cmake.org/)
 
 ### Установка и сборка
 1. __Устанавливаем JDK__
@@ -160,6 +160,11 @@ __Циклические зависимости__
 ![cyclic](/cyclic.png)
 
 
+## Планы по доработке
+
+- графический интерфейс
+- сохранение электронной таблицы в файл
+- загрузка таблицы из файла
 
 
 
